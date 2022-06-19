@@ -1,6 +1,6 @@
 ## Application URL
 
-Udagramhenry-env.eba-dhah79kx.us-east-1.elasticbeanstalk.com
+http://udagramhenry-env.eba-dhah79kx.us-east-1.elasticbeanstalk.com/
 
 # Udagram Image Filtering Microservice
 
